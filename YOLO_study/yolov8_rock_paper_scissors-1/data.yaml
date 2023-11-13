@@ -1,0 +1,14 @@
+names:
+- Paper
+- Rock
+- Scissors
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: yolov7_rock_paper_scissors
+  url: https://universe.roboflow.com/project-kzetv/yolov7_rock_paper_scissors/dataset/1
+  version: 1
+  workspace: project-kzetv
+test: /content/drive/MyDrive/Colab Notebooks/DeepLearning_AI2(2310)/YOLO_study/yolov8_rock_paper_scissors-1/test
+train: /content/drive/MyDrive/Colab Notebooks/DeepLearning_AI2(2310)/YOLO_study/yolov8_rock_paper_scissors-1/train
+val: /content/drive/MyDrive/Colab Notebooks/DeepLearning_AI2(2310)/YOLO_study/yolov8_rock_paper_scissors-1/valid
